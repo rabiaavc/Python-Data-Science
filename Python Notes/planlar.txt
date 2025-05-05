@@ -1,0 +1,8 @@
+8.0 Kahvaltı 
+9:0 Koşu 
+10:00 Email Okuma 
+10:30 Çalışma 
+17:00 Dinlenme 
+19:00 Çalışma 
+21:00 Serbest Zaman 
+24:00 Yatma 
